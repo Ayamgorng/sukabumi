@@ -5,35 +5,35 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://wa.me/6285280331008?text=bang+aku+mau+donasi+i+love+yuuu'
+global.gr = 'https://wa.me/6283849469400?text=bang+aku+mau+donasi+i+love+yuuu'
 global.ig = 'https://instagram/@joshuaaam12' // ubah aja
 global.ofc = 'https://chat.whatsapp.com/LPw4dbaARqqD7ap4u4g534'
 global.okta = '-'
-global.gh = 'https://github.com/Joshua-str'
+global.gh = 'https://github.com/Ayamgorng'
 global.saluran = 'https://chat.whatsapp.com/LPw4dbaARqqD7ap4u4g534'
-global.email = 'joshuadtr007@gmail.com' //serah
+global.email = 'busarderemik@gmail.com' //serah
 global.region = 'indonesia' // serah
-global.dana = '085280331008'
+global.dana = '083849469400'
 global.gopay = '085280331008'
-global.pulsa = '085280331008'
-global.domain = 'https://valzhost.jaspanelku.xyz' // Isi Domain Lu
+global.pulsa = '083849469400'
+global.domain = 'https://manpedia.biz.id' // Isi Domain Lu
 global.apikey = 'ptla_1bbrbtFk9B0XeRtsDmiLMHvkJhxwcabcS0zd6W2U8R8' // Isi Apikey Plta Lu
 global.capikey = 'ptlc_ZQ46v3soPDsYt80BVQbufVygjTuHakOVXsgBUGOyzf7' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'ᴊᴏsʜᴜᴀ⌫' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ega-tmvn' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['6285280331008'] // ubah aja pake nomor lu
-global.premium = ['6285280331008']
+global.owner = ['6283849469400'] // ubah aja pake nomor lu
+global.premium = ['6283849469400']
 //==========================BY Hw Mods=======================//
 global.lolkey = 'a8e86232771f9bc1826742c1'
 global.zenz = 'zenzkey_41b4fe7a5d' // https://api.zahwazein.xyz
 global.keyopenai = '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'
 //====================BY Hw Mods=============================//
-global.botname = 'ʀᴇᴢᴏʀ-x' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = 'ʀᴇᴢᴏʀ' // ubah aja ini nama sticker
+global.botname = 'sky-bot-x' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = 'sky-bot by:ega-offc' // ubah aja ini nama sticker
 global.ta = '•' //cuma simbol
 global.author = 'ɴᴏᴛʜɪɴɢ ᴀʙᴏᴜᴛ ᴍᴇシ︎' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
