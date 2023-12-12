@@ -1,15 +1,15 @@
 {
-    "ownerNomor": ["6285701479245@s.whatsapp.net"],
-    "ownernamee": "Valzy",
+    "ownerNomor": ["6283849469400@s.whatsapp.net"],
+    "ownernamee": "Ega-tmvn",
     "ige" : "https://instagram.com/oktaofcrill",
     "ofce" : "https://chat.whatsapp.com/IH7qSawnt5x5iAR9RGg8C6",
-    "botnamee": "valzy",
-    "author": "© valzy",
+    "botnamee": "sky-bot",
+    "author": "© sky-bot by:ega-offc",
     "kwntl": "https://telegra.ph/file/fecf53c0b70fd1018bf3e.jpg",
     "gamewaktu": 90,
-    "limitCount": 20,
+    "limitCount": 100,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": 100000,
+        "user": 100
     }
 }
